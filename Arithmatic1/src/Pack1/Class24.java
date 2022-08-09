@@ -8,6 +8,7 @@ public class Class24
 	  this.m2();
 	System.out.println("This is 1 methood");
 	this.m3();
+	System.out.println("Making chnages for git hub");
 }
 public void m2()
 {
